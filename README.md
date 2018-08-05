@@ -1,6 +1,6 @@
 ## Description
 
-As part of my research work in particle physics, I have used a number of machine learning techniques for data analysis especially for signal and background separation, where signal is the particle events I am interested to look at further. I did this course to gain some experience with analyzing other kinds of datasets in the industry.
+As part of my research work in particle physics, I have used a number of machine learning techniques for data analysis, especially for signal and background separation and classification, where signal encompasses particle events I am interested to look at further. I did this course to gain some experience with analyzing other kinds of datasets in the industry.
 
 This contains some projects I worked on for the course on Machine learning in Coursera (Andrew Ng)
 
@@ -18,8 +18,10 @@ In this exercise, we build a logistic regression model to predict whether a stud
 
 ## Usage:
  The assignments require the Octave or MATLAB scientific computing languages.
+ 
 •	Octave is a free, open-source application available for many platforms. It has a text interface and an experimental graphical one.
-•	MATLAB is proprietary software, but a free trial license to MATLAB Online is being offered for the completion of this course.
+
+•	MATLAB is proprietary software, but a free trial license to MATLAB Online was offered for the completion of this course.
 
 You can startup Octave and run the exercises in Octave as for example:
 
